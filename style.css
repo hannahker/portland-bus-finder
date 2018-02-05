@@ -1,0 +1,60 @@
+ body { margin:0; padding:0; }
+        #map { 
+            margin-top: 15px;
+            margin-left: 15px;
+            margin-right: 15px;
+            height: 515px;
+            width: 700px;
+            float: left;
+
+             }
+        #header{
+            margin-top: 15px;  
+            height: 120px;
+            background-color: black;
+            width: 100%;
+            font-family:'Raleway', sans-serif;
+            color:white;
+            font-size:40px;
+            text-align:center;
+            padding-top:40px;
+            padding-bottom:40px;
+           
+        }
+        #info{
+
+            background-color: #f2c9ba;
+            margin-top: 15px;
+            margin-left: 725px;
+            margin-right: 15px;
+            height: 500px;
+            width: auto;
+            font-family:'Bitter', serif;
+            padding:15px;
+            line-height:25px;
+
+        }
+        #footer{
+            clear: left;
+            margin-top: 15px;  
+            margin-bottom:15px;
+            height: 50px;
+            background-color: black;
+            width: 100%;
+            padding-top:20px;
+            font-family:'Raleway', sans-serif;
+            color:white;
+            font-size:15px;
+            text-align:center;
+            word-spacing:30px;
+
+        }
+        #reset{
+
+        font-family:'Bitter', serif;
+        background-color: white;
+        border:0px;
+        
+
+
+        }
